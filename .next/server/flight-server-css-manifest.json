@@ -1,36 +1,12 @@
 {
   "cssImports": {
     "/home/project/src/app/layout.jsx": [
-      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}",
-      "/home/project/src/app/globals.css"
+      "/home/project/src/app/globals.css",
+      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
     ]
   },
   "cssModules": {
     "/home/project/src/app/page": [
-      "/home/project/src/app/globals.css",
-      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
-    ],
-    "/home/project/src/app/features/page": [
-      "/home/project/src/app/globals.css",
-      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
-    ],
-    "/home/project/src/app/pricing/page": [
-      "/home/project/src/app/globals.css",
-      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
-    ],
-    "/home/project/src/app/about/page": [
-      "/home/project/src/app/globals.css",
-      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
-    ],
-    "/home/project/src/app/contact/page": [
-      "/home/project/src/app/globals.css",
-      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
-    ],
-    "/home/project/src/app/signup/page": [
-      "/home/project/src/app/globals.css",
-      "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
-    ],
-    "/home/project/src/app/login/page": [
       "/home/project/src/app/globals.css",
       "/home/project/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"]}],\"import\":\"Inter\",\"path\":\"src/app/layout.jsx\",\"variableName\":\"inter\"}"
     ]

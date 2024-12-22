@@ -215,26 +215,6 @@
         "chunks": [],
         "async": false
       }
-    },
-    "(app-client)/./src/app/signup/page.jsx": {
-      "*": {
-        "id": "(sc_client)/./src/app/signup/page.jsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/app/signup/page.jsx",
-        "name": "",
-        "chunks": [],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/app/signup/page.jsx",
-        "name": "default",
-        "chunks": [],
-        "async": false
-      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -994,30 +974,6 @@
       "name": "default",
       "chunks": [
         "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/home/project/src/app/signup/page.jsx": {
-      "id": "(app-client)/./src/app/signup/page.jsx",
-      "name": "*",
-      "chunks": [
-        "app/signup/page:static/chunks/app/signup/page.js"
-      ],
-      "async": false
-    },
-    "/home/project/src/app/signup/page.jsx#": {
-      "id": "(app-client)/./src/app/signup/page.jsx",
-      "name": "",
-      "chunks": [
-        "app/signup/page:static/chunks/app/signup/page.js"
-      ],
-      "async": false
-    },
-    "/home/project/src/app/signup/page.jsx#default": {
-      "id": "(app-client)/./src/app/signup/page.jsx",
-      "name": "default",
-      "chunks": [
-        "app/signup/page:static/chunks/app/signup/page.js"
       ],
       "async": false
     }
